@@ -35,6 +35,11 @@
                 <Setter Property="CornerRadius" Value="5"/>
             </Style>
 
+            <Style TargetType="NavigationPage">
+                <Setter Property="BarBackgroundColor" Value="#D3D3D3" />
+                <Setter Property="BarTextColor" Value="black" />
+            </Style>
+
         </ResourceDictionary>
 
     </Application.Resources>

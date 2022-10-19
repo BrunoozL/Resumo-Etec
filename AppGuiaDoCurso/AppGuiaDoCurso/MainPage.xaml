@@ -20,7 +20,7 @@
                              Margin="10"
                              HorizontalOptions="FillAndExpand">
 
-                    <Image Source="logo_etec_fg" Aspect="AspectFit"/>
+                    <Image Source="https://cdn.mundodastribos.com/2011/01/ETEC-Jau-SP-Cursos-Enderecos.jpg" Aspect="AspectFit" HeightRequest="125"/>
                 </StackLayout>
 
                 <StackLayout Grid.Row="1" Spacing="10" Margin="10" Padding="10" BackgroundColor="#F3F2F0">
